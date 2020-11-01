@@ -27,7 +27,7 @@ blockquote, p{
 }
 
 blockote, footer{
-    color: #575757;
+    color: #575757 !important;
 }
 
 #page-loading-blocs-notifaction {
