@@ -31,7 +31,7 @@ blockquote, p{
 }
 
 blockquote, footer{
-    color: #575757 !importan;
+    color: #575757 !important;
 }
 
 #page-loading-blocs-notifaction {
@@ -303,7 +303,7 @@ blockquote, footer{
 }
 
 #bloc-4-portfolio h2{
-    margin-top: 50px;
+    padding-top: 50px;
 }
 
 .navbar {
@@ -914,10 +914,16 @@ h4 {
 }
 
 @media (max-width: 767px) {
+
+    .social {
+        max-width: 100%;
+    }
+
     .page-container {
         overflow-x: hidden;
         position: relative;
     }
+    
     h1,
     h2,
     h3,
