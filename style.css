@@ -22,11 +22,15 @@ a:hover {
     cursor: pointer;
 }
 
+blockquote{
+    margin-top: 50px;
+}
+
 blockquote, p{
     font-size: 20px !important;
 }
 
-blockote, footer{
+blockquote, footer{
     color: #575757 !importan;
 }
 
@@ -296,6 +300,10 @@ blockote, footer{
 
 #bloc-1-hero h1 {
     font-size: 32px;
+}
+
+#bloc-4-portfolio h2{
+    margin-top: 50px;
 }
 
 .navbar {
