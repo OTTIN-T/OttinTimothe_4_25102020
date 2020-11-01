@@ -4,6 +4,11 @@ body {
     overflow-x: hidden;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    background-color: rgb(0 0 0 / 1%);
+}
+
+p{
+    background-color: rgb(0 0 0 / 1%);
 }
 
 a,
@@ -19,6 +24,10 @@ a:hover {
 
 blockquote, p{
     font-size: 20px !important;
+}
+
+blockote, footer{
+    color: #575757;
 }
 
 #page-loading-blocs-notifaction {
@@ -436,11 +445,13 @@ nav .caret {
 .mg-md {
     margin-top: 10px;
     margin-bottom: 20px;
+    background-color: rgb(0 0 0 / 1%);
 }
 
 .mg-lg {
     margin-top: 10px;
     margin-bottom: 40px;
+    background-color: rgb(0 0 0 / 1%);
 }
 
 .btn {
@@ -658,6 +669,7 @@ a {
 
 .hero-bloc-text {
     font-size: 38px;
+    background-color: rgb(0 0 0 / 1%);
 }
 
 .hero-bloc-text-sub {
@@ -735,6 +747,7 @@ h4 {
 
 .white {
     color: black !important;
+    background-color: rgb(0 0 0 / 1%);
 }
 
 .portfolio-thumb {
@@ -774,6 +787,11 @@ h4 {
 
 .tc-white {
     color: #F3976C!important;
+    background-color: rgb(0 0 0 / 1%);
+}
+
+.tc-background{
+    background-color: rgb(0 0 0 / 1%);
 }
 
 .btn-atomic-tangerine {
@@ -788,6 +806,7 @@ h4 {
 
 .ltc-white {
     color: #FFFFFF!important;
+    background-color: rgb(0 0 0 / 1%);
 }
 
 .ltc-white:hover {
