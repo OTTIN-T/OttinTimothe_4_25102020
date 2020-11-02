@@ -855,7 +855,7 @@ h4 {
 }
 
 .test{
-    color: black;
+    color: black !important;
 }
 
 @media (max-width: 1024px) {
