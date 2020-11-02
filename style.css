@@ -847,11 +847,12 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/image-de-fond-decorative.jpg");
+    background-image: url("img/image-de-fond-decorative.png");
+    background-size: 100% !important;
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-fond-decorative.bmp");
+    background-image: url("img/image-de-fond-decorative-deux.png");
 }
 
 .test{
@@ -880,11 +881,19 @@ h4 {
 
         max-width: 100%
     }
+    
+    .bg-banniere {
+        background-size: 130% !important;
+    }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
     .b-parallax {
         background-attachment: scroll;
+    }
+
+    .bg-banniere {
+        background-size: 130% !important;
     }
 }
 
@@ -918,7 +927,6 @@ h4 {
 }
 
 @media (max-width: 767px) {
-
     .social {
         max-width: 100%;
     }
@@ -1059,6 +1067,12 @@ h4 {
     .blocsapp-device-iphone5 img {
         width: 180px;
         height: 320px;
+    }
+}
+
+@media (min-width: 200px) and (max-width: 605px){
+    .bg-banniere {
+        background-size: 230% !important;
     }
 }
 
