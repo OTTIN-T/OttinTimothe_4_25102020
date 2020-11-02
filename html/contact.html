@@ -92,29 +92,30 @@
 		<h2 class="text-center">Formulaire de contact</h2>
 		<div class="container bloc-lg">
 				<div class="col-sm-6">
-					<form id="form_1" novalidate>
+					<form id="form_1" method="get" novalidate>
 						<div class="form-group">
-							<label>
-								Nom
-							</label>
+							<label for="name">Nom</label>
 							<input id="name" class="form-control" required />
 						</div>
 						<div class="form-group">
-							<label>
-								Adresse email
-							</label>
+							<label for="email">Adresse email</label>
 							<input id="email" class="form-control" type="email" required />
 						</div>
 						<div class="form-group">
-							<label>
+							<label for="choix">
 								Comment nous avez-vous connu ?
 							</label>
+							<select name="choix" multiple>
+								<option value="">Merci de faire vôtre choiw</option>
+								<option value="internet">Internet</option>
+								<option value="connaissance">Connaissance</option>
+								<option value="pub">Publicité</option>						
+							</select>
 							<input class="form-control" type="email" required id="input_504" />
 						</div>
 						<div class="form-group">
-							<label>
-								Brief de votre projet (Ajoutez autant de détails que nécessaire)
-							</label><textarea id="message" class="form-control" rows="4" cols="50" required></textarea>
+							<label for="message">Brief de votre projet</label>
+							<textarea id="message" class="form-control" rows="4" cols="50" required>(Ajoutez autant de détails que nécessaire)</textarea>
 						</div> 
 						<button class="bloc-button btn btn-lg btn-block cta-hero btn-atomic-tangerine" type="submit">
 							Envoyer
