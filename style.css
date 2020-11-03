@@ -301,6 +301,11 @@ blockquote, footer{
 
 #bloc-4-portfolio h2{
     padding-top: 50px;
+    background-color:  #ffffff91 !important;
+}
+
+.background-portfolio{
+    background-color:  #ffffff91 !important;
 }
 
 .navbar {
@@ -454,13 +459,13 @@ nav .caret {
 .mg-md {
     margin-top: 10px;
     margin-bottom: 20px;
-    background-color: rgb(0 0 0 / 1%) !important;
+    background-color: #ffffff91 !important;
 }
 
 .mg-lg {
     margin-top: 10px;
     margin-bottom: 40px;
-    background-color: rgb(0 0 0 / 1%) !important;
+    background-color: #ffffff91 !important; 
 }
 
 .btn {
@@ -760,7 +765,6 @@ h4 {
 
 .white {
     color: black !important;
-    background-color: rgb(0 0 0 / 1%) !important;
 }
 
 .portfolio-thumb {
@@ -800,11 +804,6 @@ h4 {
 
 .tc-white {
     color: #F3976C!important;
-    background-color: rgb(0 0 0 / 1%) !important;
-}
-
-.tc-background{
-    background-color: rgb(0 0 0 / 1%) !important;
 }
 
 .btn-atomic-tangerine {
@@ -844,9 +843,10 @@ h4 {
 }
 
 .bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
-    background-color: white;
+    /* background-image: url("img/lines-h2-bg.png"); */
+    background-color: white !important;
 }
+
 .col-sm-12{
     color: black !important;
 }
