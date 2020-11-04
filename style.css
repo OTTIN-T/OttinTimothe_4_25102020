@@ -779,7 +779,7 @@ h4 {
 }
 
 .background-bloc-5{
-    background-color: rgb(207, 143, 11);
+    background-color: rgb(207, 143, 11) !important;
 }
 
 .bold-link {
