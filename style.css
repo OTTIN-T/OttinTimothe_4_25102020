@@ -666,7 +666,7 @@ label,
 .btn,
 a {
     font-family: "helvetica";
-    color: black;
+    color: rgb(0, 0, 0);
     font-weight: 400;
 }
 
