@@ -681,7 +681,7 @@ a {
 }
 
 .container {
-    max-width: 1000px;
+    max-width: 650px;
 }
 
 .hero-bloc-text {
@@ -782,6 +782,11 @@ h4 {
 .black-background {
     background-color: rgb(196 132 0);
     padding: 40px 40px 40px 40px;
+}
+
+.black-background-deux{
+    background-color: rgb(196 132 0);
+    padding: 21px 0px 88px 0px;
 }
 
 .bold-link {
