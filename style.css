@@ -299,10 +299,6 @@ blockquote, footer{
     background-color:  #ffffff91 !important;
 }
 
-.background-portfolio{
-    background-color:  #ffffff91 !important;
-}
-
 .navbar {
     margin-bottom: 0;
     z-index: 1;
@@ -728,7 +724,6 @@ p {
 
 h2 {
     font-size: 22px;
-    line-height: 1.4em;
 }
 
 h3 {
@@ -846,12 +841,11 @@ h4 {
 }
 
 .bg-lines-h2-bg {
-    /* background-image: url("img/lines-h2-bg.png"); */
-    background-color: white !important;
+    background-color: white;
 }
 
 .col-sm-12{
-    color: black !important;
+    color: black;
 }
 
 .bg-banniere {
