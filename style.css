@@ -778,6 +778,10 @@ h4 {
     padding: 21px 0px 88px 0px;
 }
 
+.background-bloc-5{
+    background-color: rgb(207, 143, 11);
+}
+
 .bold-link {
     font-weight: 900;
     text-decoration: underline!important;
