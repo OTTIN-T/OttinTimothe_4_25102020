@@ -21,7 +21,7 @@ blockquote{
     margin-top: 50px;
 }
 
-blockquote, p{
+blockquote + p{
     font-size: 20px !important;
 }
 
