@@ -4,11 +4,6 @@ body {
     overflow-x: hidden;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    background-color: rgb(0 0 0 / 1%) !important;
-}
-
-p{
-    background-color: rgb(0 0 0 / 1%) !important;
 }
 
 a,
