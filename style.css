@@ -769,12 +769,12 @@ h4 {
 }
 
 .black-background {
-    background-color: rgb(209, 132, 0);
+    background-color: rgb(207, 143, 11);
     padding: 40px 40px 40px 40px;
 }
 
 .black-background-deux{
-    background-color: rgb(209, 132, 0);
+    background-color: rgb(207, 143, 11);
     padding: 21px 0px 88px 0px;
 }
 
@@ -792,7 +792,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine-deux {
-    background-color: rgb(196 132 0) !important;
+    background-color: rgb(207, 143, 11) !important;
 }
 
 .bgc-atomic-tangerine {
