@@ -1392,7 +1392,7 @@ body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 14px;
     line-height: 1.42857143;
-    color: #333;
+    color: rgb;
 }
 
 button,
@@ -1405,7 +1405,7 @@ textarea {
 }
 
 a {
-    color: #337ab7;
+    color: rgb(0, 0, 0);
     text-decoration: none
 }
 
