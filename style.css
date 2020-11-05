@@ -102,7 +102,7 @@ blockquote, footer{
 }
 
 .texture-paper::before {
-    background: url("img/image-texture-papier.jpg");
+    background: url("img/image-texture-papier.png");
     background-size: 280px 280px;
 }
 
@@ -838,7 +838,7 @@ h4 {
 }
 
 .bg-dots-bg {
-    background-image: url("img/dots-bg.jpg");
+    background-image: url("img/dots-bg.png");
 }
 
 .bg-lines-h2-bg {
