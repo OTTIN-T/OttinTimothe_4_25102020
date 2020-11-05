@@ -102,7 +102,7 @@ blockquote, footer{
 }
 
 .texture-paper::before {
-    background: url("img/image-texture-papier.png");
+    background: url("img/image-texture-papier.jpg");
     background-size: 280px 280px;
 }
 
@@ -838,7 +838,7 @@ h4 {
 }
 
 .bg-dots-bg {
-    background-image: url("img/dots-bg.png");
+    background-image: url("img/dots-bg.jpg");
 }
 
 .bg-lines-h2-bg {
@@ -850,12 +850,12 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/image-de-fond-decorative.png");
+    background-image: url("img/image-de-fond-decorative.jpg");
     background-size: 100% !important;
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-fond-decorative-deux.png");
+    background-image: url("img/image-de-fond-decorative-deux.jpg");
 }
 
 .test{
